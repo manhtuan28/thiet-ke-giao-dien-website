@@ -36,8 +36,8 @@ Dưới đây là cấu trúc thư mục của dự án và giải thích ngắn
 │   └── images/
 |   └── js/
 ├── 📁 node_modules/  # Chứa các package được cài đặt qua npm (ví dụ: bootstrap)
-├── 📁 public/        # Chứa các file HTML sẽ được hiển thị cho người dùng
-│   └── index.html   # File HTML chính của trang web
+├── 📁 Bài Tập Thực Hành Chương */        # Chứa các file HTML bài tập
+│   └── BTH*.*.html   # File HTML bài tập
 ├── .gitignore       # Bỏ qua các file/thư mục không cần thiết (như node_modules)
 ├── package.json     # Chứa thông tin và các package của dự án
 └── README.md        # File bạn đang đọc
