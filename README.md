@@ -62,7 +62,7 @@ Dưới đây là cấu trúc thư mục của dự án và giải thích ngắn
     npm install
     ```
 
-4.  **Mở file `public/index.html`** bằng trình duyệt của bạn để xem kết quả.
+4.  **Mở file `Bài Tập Thực Hành Chương *\BT*.*.index.html`** bằng trình duyệt của bạn để xem kết quả.
 
     *Mẹo: Bạn có thể sử dụng extension **Live Server** trên VS Code để tự động tải lại trang mỗi khi có thay đổi.*
 
