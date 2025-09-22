@@ -60,6 +60,7 @@ Dưới đây là cấu trúc thư mục của dự án và giải thích ngắn
 3.  **Cài đặt các gói phụ thuộc:**
     ```bash
     npm install
+    npm i bootstrap-icons
     ```
 
 4.  **Mở file `Bài Tập Thực Hành Chương *\BT*.*.index.html`** bằng trình duyệt của bạn để xem kết quả.
